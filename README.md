@@ -15,11 +15,14 @@ The microcontroller used is ATMEGA32
 
 
 #peripherals
+
 #UART
+
 In this project, I used some peripherals 
 
 
 *Virtual Terminal 
+
  -I used Virtual Terminal to check that UART  work well
  
  -I used UART
